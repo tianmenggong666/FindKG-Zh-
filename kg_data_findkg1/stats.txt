@@ -1,0 +1,60 @@
+FinDKG-zh Dataset Statistics (精简版)
+==================================================
+
+1. Basic Statistics
+   # Entities: 20014
+   # Entity Types: 18
+   # Relations: 24
+   # Timestamps: 1834
+   # Quadruples (total): 104872
+
+2. Dataset Split
+   Train: 83929 (80.0%)
+   Valid: 10508 (10.0%)
+   Test:  10435 (10.0%)
+
+3. Entity Type Distribution
+   COMP: 4239 (21.2%)
+   ORG: 2469 (12.3%)
+   PRODUCT: 2460 (12.3%)
+   PERSON: 2364 (11.8%)
+   SECTOR: 1850 (9.2%)
+   ECON_INDICATOR: 1399 (7.0%)
+   CONCEPT: 1300 (6.5%)
+   FIN_INSTRUMENT: 1165 (5.8%)
+   EVENT: 1060 (5.3%)
+   ORG/GOV: 826 (4.1%)
+   GPE: 731 (3.7%)
+   UNKNOWN: 80 (0.4%)
+   ORG/REG: 70 (0.3%)
+   TIME: 1 (0.0%)
+
+4. Time Range
+   First timestamp: 2019-01-01
+   Last timestamp:  2024-03-15
+
+5. Relation Types
+   积极影响于 (ID: 0)
+   宣布 (ID: 1)
+   投资于 (ID: 2)
+   上涨 (ID: 3)
+   延长 (ID: 4)
+   消极影响于 (ID: 5)
+   预测 (ID: 6)
+   影响 (ID: 7)
+   推荐 (ID: 8)
+   拥有 (ID: 9)
+   调整 (ID: 10)
+   减持 (ID: 11)
+   降低 (ID: 12)
+   生产 (ID: 13)
+   退出 (ID: 14)
+   推出 (ID: 15)
+   积极践行 (ID: 16)
+   运营于 (ID: 17)
+   隶属于 (ID: 18)
+   提升 (ID: 19)
+   上市于 (ID: 20)
+   关联于 (ID: 21)
+   参与 (ID: 22)
+   控制 (ID: 23)
